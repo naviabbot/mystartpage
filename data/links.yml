@@ -1,0 +1,45 @@
+---
+- group: Social media
+  items:
+          - title: /r/unixporn
+            url: https://www.reddit.com/r/unixporn
+            icon: fab fa-reddit
+          - title: theRealm
+            url: https://e.onrealm.org
+            icon: fas fa-bible
+          - title: F-List
+            url: https://f-list.net
+            icon: fas fa-comment-dots
+          - title: Discord
+            url: https://discordapp.com
+            icon: fab fa-discord
+
+- group: Reading
+  items:
+          - title: Wikipedia
+            url: https://en.m.wikipedia.org/wiki/Main_Page
+            icon: fab fa-wikipedia-w
+          - title: NPR
+            url: https://npr.org
+            icon: fas fa-newspaper
+          - title: The Onion
+            url: https://www.theonion.com
+            icon: fas fa-theater-masks
+          - title: ArchWiki
+            url: https://wiki.archlinux.org/
+            icon: fab fa-linux
+
+- group: Videos
+  items:
+          - title: Tokusatsu!!
+            url: https://www.youtube.com/channel/UC7pddu3yyzkzFEiXfQLex3w
+            icon: fas fa-torii-gate
+          - title: The 8-Bit Guy
+            url: https://www.youtube.com/user/adric22
+            icon: fas fa-microchip
+          - title: Tubi
+            url: https://tubitv.com
+            icon: fas fa-tv
+          - title: PlutoTV
+            url: https://pluto.tv
+            icon: fas fa-globe

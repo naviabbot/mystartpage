@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "uuddlrlrbas"
+theme = "bootstrap-bp-hugo-startpage"
+
+[params]
+welcomeText = "Do the Mario!"
+startPageColumns = false
+
+[[params.searchEngines]]
+  name = "DuckDuckGo"
+  activated = true
+  url = "https://duckduckgo.com/"
