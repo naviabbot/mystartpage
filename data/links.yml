@@ -13,6 +13,9 @@
           - title: Discord
             url: https://discordapp.com
             icon: fab fa-discord
+          - title: The Youtubes
+            url: https://www.youtube.com
+            icon: fab fa-youtube
 
 - group: Reading
   items:
@@ -28,6 +31,9 @@
           - title: ArchWiki
             url: https://wiki.archlinux.org/
             icon: fab fa-linux
+          - title: FreeBSD Handbook
+            url: https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/
+            icon: fab fa-freebsd
 
 - group: Videos
   items:
@@ -43,3 +49,6 @@
           - title: PlutoTV
             url: https://pluto.tv
             icon: fas fa-globe
+          - title: CS188 on Mixer
+            url: https://mixer.com/cs188
+            icon: fas fa-gamepad
